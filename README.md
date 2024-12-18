@@ -51,7 +51,7 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/yourusername/sentiment-analysis-hotel-reviews](https://github.com/MadasuLaxman/Hackathon_Sentimental_Analysis/).git
+   git clone [https://github.com/yourusername/sentiment-analysis-hotel-reviews](https://github.com/ajayender-5/Sentiment_Analysis/).git
  2. Navigate to the project directory: 
   ```
 cd sentiment-analysis-hotel-reviews
@@ -77,6 +77,6 @@ This project provided valuable insights into customer sentiments affecting satis
 # Contact
 For any inquiries or feedback, please contact me at:
 
-Email: madasulaxman028@gmail.com
+Email: r.ajayender9@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/laxmanmadasu/
+LinkedIn: https://www.linkedin.com/in/ajayender75/
