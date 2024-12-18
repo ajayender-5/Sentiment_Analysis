@@ -6,7 +6,7 @@ import pickle
 st.set_page_config(page_title="Sentimental Analysis", page_icon="🏨")
 
 # Load the trained model 
-model = pickle.load(open("Prudent_Hackathon//logistic_regression1.pkl", "rb"))
+model = pickle.load(open("Sentiment_Analysis/logistic_regression1.pkl", "rb"))
 
 # Function to predict sentiment
 def predict_sentiment(review):
